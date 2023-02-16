@@ -1,5 +1,5 @@
 # spring-prometheus-grafana-demo
 
-http://localhost:8080/actuator/prometheus
-http://localhost:9090
-http://localhost:3000
+1) http://localhost:8080/actuator/prometheus
+2) http://localhost:9090
+3) http://localhost:3000
